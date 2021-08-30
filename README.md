@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @deadxmas
+- I’m interested in audio plugin development
+- I’m currently a producer apart of the production and songwriting team Dec6
+- I’m looking to learn more about audio plugin develpoment and eventually sell and distribute my own custom audio plugins
+- You can reach me at deadxmasco@gmail.com
